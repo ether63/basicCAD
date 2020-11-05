@@ -71,7 +71,7 @@ This is a fork is the holder for the wheels and the base
 
 
 ### Reflection
-
+This one uas hard because you have to do the mirror and the fillet but by watching the video it give me a tip on how to do it 
 ---
 
 
