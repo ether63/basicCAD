@@ -78,7 +78,7 @@ This one uas hard because you have to do the mirror and the fillet but by watchi
 ## Tire
 
 ### Description
-So This is a Tire you have to drew different line and dimension to make it look black than you ahve to revolve it and just fillet the edge by 8mm
+So This is a Tire you have to drew different line and dimension to make it until the line is black  than you have to revolve it and just fillet the edge by 8mm
 
 ### Evidence
 [The base in onshape](https://cvilleschools.onshape.com/documents/43b35685c6a0fd500f61b3b5/w/7cce22bc1be18a4985224dcd/e/8ebf0dcdc6fc7831a59602c2)
