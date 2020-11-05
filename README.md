@@ -116,6 +116,7 @@ for the Axle  is a 2 circle of 10 and 6mm diameter and for the collar it a 15mm 
 [The Axle and collar in onshape](https://cvilleschools.onshape.com/documents/43b35685c6a0fd500f61b3b5/w/7cce22bc1be18a4985224dcd/e/8c6c12750b70c6d3698cd9a)
 
 ### Image
+<img src="https://github.com/ether63/basicCAD/blob/main/axle%20and%20collar.png" width="400">
 
 ### Reflection
 This was easy i don't have any proble but a good tip is to take your time and watched the video
