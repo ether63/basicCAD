@@ -61,7 +61,7 @@ i was stuck on the holes like how to do the linear pattern but i think by watchi
 ## Fork
 
 ### Description
-This is a fork with it have a extrude of 8mm blide and 75mm extrude of cylinders fillet 1 has 15mm,fillet 2 has 1mm and fillet 3 has 4mm
+This is a fork with it have a extrude of 8mm blide of the face of the sketch and 75mm extrude of cylinders and it also have  fillet 1 has 15mm,fillet 2 has 1mm and fillet 3 has 4mm
 
 ### Evidence
 [The Base in Onshape](https://cvilleschools.onshape.com/documents/43b35685c6a0fd500f61b3b5/w/7cce22bc1be18a4985224dcd/e/ab666005938fe2409c85f8b7)
