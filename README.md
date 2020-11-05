@@ -117,6 +117,7 @@ for the Axle  is a 2 circle of 10 and 6mm diameter and for the collar it a 15mm 
 
 ### Image
 <img src="https://github.com/ether63/basicCAD/blob/main/axle%20and%20collar.png" width="400">
+<img src="https://github.com/ether63/basicCAD/blob/main/big%20bearing.png" width="400'>
 
 ### Reflection
 This was easy i don't have any proble but a good tip is to take your time and watched the video
