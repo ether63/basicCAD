@@ -110,11 +110,13 @@ The wheel is hard because i never got this far last year and it was like new to 
 ## AxleCollarBearings
 
 ### Description
+for the Axle  is a 2 circle of 10 and 6mm diameter and for the collar it a 15mm diameter you have to extrude the collar by 10mm and extrude the axle by 60mm and for the bearing is a 2 circle of 20 and 30mm of diameter and extrude it by 5mm
 
 ### Evidence
+[The Axle and collar in onshape](https://cvilleschools.onshape.com/documents/43b35685c6a0fd500f61b3b5/w/7cce22bc1be18a4985224dcd/e/8c6c12750b70c6d3698cd9a)
 
 ### Image
 
 ### Reflection
-
+This was easy i don't have any proble but a good tip is to take your time and watched the video
 ---
